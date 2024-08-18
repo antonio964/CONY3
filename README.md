@@ -1,2 +1,0 @@
-# CONY3
-weadas
